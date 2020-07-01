@@ -6,9 +6,9 @@ This tutorial shows you how to quickly create a live streaming webapp using the 
 
 The following features are included in this sample project:
 
-- join and leave room:
-- set microphone and camera device:
-- set live streaming cdn url and then start and stop live streaming publish:
+- join and leave room
+- set microphone and camera device
+- set live streaming cdn url and then start and stop live streaming publish
   
 
 ## Prerequisites
