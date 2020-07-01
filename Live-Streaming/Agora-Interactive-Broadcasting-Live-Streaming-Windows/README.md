@@ -5,9 +5,9 @@ This open source example is based on live demo [OpenLive](https://github.com/Ago
 
 The following features are included in this sample project:
 
-- Join calls and leave calls;
-- Configure transcoding and streaming parameters;
-- Start or stop pushing to the CDN;
+- Join calls and leave calls
+- Configure transcoding and streaming parameters
+- Start or stop pushing to the CDN
 
 ## Developer Environment Requirements
 * VC2013 or higher
